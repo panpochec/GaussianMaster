@@ -1,0 +1,18 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "gaussianmaster"
+authors = [{name = "Michał Pocheć", email = "lysy.pochec@gmail.com"}]
+dynamic = ["version", "description"]
+readme = "Readme.txt"
+requires-python = ">=3.5"
+
+dependencies = [
+    "numpy >=1.23.1",
+    "pandas >=1.4.3",
+]
+
+[project.urls]
+Home = "https://github.com/panpochec/GaussianMaster"
