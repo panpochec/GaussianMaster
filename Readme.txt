@@ -7,6 +7,9 @@ on:
 https://github.com/panpochec/GaussianMaster
 in the GaussianMasterDoc.pdf
 
+PyPI page:
+https://pypi.org/project/gaussianmaster/
+
 You can contact me directly using lysy.pochec@gmail.com
 
 Have fun!
