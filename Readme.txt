@@ -5,6 +5,7 @@ and manipulation on data from Gaussian calculations. It currently supports extra
 optimalization and modredundant (scan) runs. The detailed description of the contents is presented
 on:
 https://github.com/panpochec/GaussianMaster
+in the GaussianMasterDoc.pdf
 
 You can contact me directly using lysy.pochec@gmail.com
 
